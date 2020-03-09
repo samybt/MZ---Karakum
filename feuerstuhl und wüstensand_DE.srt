@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:42,200 --> 00:00:47,700
 Feuerstuhl und Wüstensand
 
@@ -36,7 +36,7 @@ die die MZ-Maschinen fahren.
 Auf MZ durch die Karakum
 
 10
-00:01:18,855 --> 00:01:20,988
+00:01:18,855 --> 00:01:20,200
 Unsere Reiseroute führt uns
 von Aschhabat in Turkmenistan
 
@@ -93,7 +93,7 @@ und ihre Maschinen aus Zschopau.
 Seiner Führung durch den Karakum
 
 24
-00:02:16,400 --> 00:02:17,900
+00:02:16,400 --> 00:02:17,500
 haben wir uns anvertraut.
 
 25
@@ -121,7 +121,7 @@ Wie vermag man sich denn hier zurechtufinden,
 frage ich ihn.
 
 31
-00:02:33,910 --> 00:02:36,043
+00:02:34,910 --> 00:02:36,043
 Es gibt ja weder Straßen noch Verkehrsschilder
 
 32
@@ -154,15 +154,15 @@ Denn niemand kann uns unterwegs helfen,
 keiner kann uns den Weg zeigen,
 
 39
-00:02:59,189 --> 00:03:00,518
+00:02:59,189 --> 00:03:00,300
 uns Nahrung und Wasser geben
 
 40
-00:03:00,383 --> 00:03:02,831
+00:03:00,400 --> 00:03:02,800
 oder gar medizinische Hilfe leisten.
 
 41
-00:03:02,397 --> 00:03:05,532
+00:03:02,900 --> 00:03:05,532
 Wir sind fernab jeder Zivilisation
 
 42
@@ -231,11 +231,11 @@ auf Kupplung und Zylinder.
 Bis auf *, der
 
 58
-00:04:00,310 --> 00:04:01,423
+00:04:00,310 --> 00:04:01,400
 * an der Erdgaspipeline arbeitet,
 
 59
-00:04:01,423 --> 00:04:02,940
+00:04:01,500 --> 00:04:02,940
 zu der keine feste Straße führt
 
 60
@@ -243,7 +243,7 @@ zu der keine feste Straße führt
 macht die Wüste keinem von uns Sorgen.
 
 61
-00:04:05,666 --> 00:04:06,925
+00:04:05,800 --> 00:04:06,925
 Im Gegensatz zu den Geologen,
 
 62
@@ -251,7 +251,7 @@ Im Gegensatz zu den Geologen,
 die in den dreißiger Jahren
 
 63
-00:04:07,888 --> 00:04:09,700
+00:04:08,400 --> 00:04:09,700
 als erste hierher vordrangen
 
 64
@@ -332,7 +332,7 @@ den wir passieren.
 An der Seidenstraße gelegen,
 
 83
-00:06:03,573 --> 00:06:06,298
+00:06:03,573 --> 00:06:06,100
 rasteten hier Karawanen ... auf ihrem Wege von China
 
 84
@@ -381,7 +381,7 @@ wird bei aller Bewunderung für die Technik angezweifelt.
 Einer der Absakale des Dorfes,
 
 95
-00:06:57,600 --> 00:06:58,100
+00:06:57,600 --> 00:06:58,600
 die man hier die Weisen nennt,
 
 96
@@ -438,7 +438,7 @@ Aber wo ist schon Schatten?
 Unser Vorrat an Trinkwasser
 
 109
-00:09:28,992 --> 00:09:31,416
+00:09:28,992 --> 00:09:31,200
 6 Kanister.
 
 110
@@ -458,7 +458,7 @@ Und das reicht kaum aus, um den brennenden Durst zu löschen.
 Nur jedoch vermögen die Maschinen mitzutragen.
 
 114
-00:09:49,200 --> 00:09:52,800
+00:09:49,200 --> 00:09:52,000
 * in Tallin als Stellvertreter der Verkehrspolizei tätig
 
 115
@@ -478,7 +478,7 @@ Es erwies sich als ein verhängnisvoller Fehler.
 Die Kanister hielten den Belastungen nicht stand.
 
 119
-00:10:08,100 --> 00:10:11,500
+00:10:08,600 --> 00:10:11,500
 So verloren sie fast ihren gesamten Wasservorrat
 
 120
@@ -507,7 +507,7 @@ Was geschieht, wenn uns irgendetwas zustößt,
 Wir haben ja nicht einmal ein Funkgerät!
 
 126
-00:10:33,458 --> 00:10:36,142
+00:10:33,500 --> 00:10:36,100
 frage ich den Leiter der Expedition *
 
 127
@@ -543,11 +543,11 @@ Das ist dann eine sehr komplizierte Angelegenheit.
 Wie wird man uns denn ausfindig machen können?
 
 135
-00:11:10,000 --> 00:11:11,600
+00:11:10,000 --> 00:11:11,400
 Mit Flugzeugen und Hubschraubern.
 
 136
-00:11:11,400 --> 00:11:13,100
+00:11:11,600 --> 00:11:13,100
 Eine andere Möglichkeit gibt es nicht.
 
 137
@@ -572,11 +572,11 @@ sowie auch unsere Filmtechnik, die alleine schon 50 kg wiegt.
 Vor allem aber Treibstoff
 
 142
-00:11:36,900 --> 00:11:39,700
+00:11:36,900 --> 00:11:39,100
 Insgesamt 230 Liter, verteilt auf
 
 143
-00:11:39,100 --> 00:11:42,100
+00:11:39,200 --> 00:11:42,100
 neun Stück 27-Liter Kanister.
 
 144
@@ -592,7 +592,7 @@ muß auf die Achsen
 und reicht genau für diese 500 Kilometer
 
 147
-00:11:49,200 --> 00:11:51,700
+00:11:49,200 --> 00:11:51,500
 und für diese 5 Tage.
 
 148
@@ -609,7 +609,7 @@ Wir haben das Ustjurt-Plateau
 im Nordosten der Karakum erreicht.
 
 151
-00:12:20,500 --> 00:12:23,900
+00:12:20,600 --> 00:12:23,900
 Se zeigt sich uns damit von einer völlig neuen Seite.
 
 152
@@ -661,7 +661,7 @@ auf einen Wasserfall stoßen,
 ein paar hunterte Meter unter uns.
 
 164
-00:13:34,100 --> 00:13:38,900
+00:13:34,800 --> 00:13:38,900
 So tief hat sich der Fluß * in das Karstgestein eingegraben.
 
 165
@@ -681,7 +681,7 @@ Das Ustjurt-Plateau ist überwunden.
 * der vor 20 Tausend Jahren ein Meer umspülte.
 
 169
-00:14:18,590 --> 00:14:22,485
+00:14:18,600 --> 00:14:22,485
 Gefüllt vom Amu Darja, dem größten Fluß Mittelasiens.
 
 170
@@ -689,11 +689,11 @@ Gefüllt vom Amu Darja, dem größten Fluß Mittelasiens.
 Er hat auch die riesigen Sandmengen in die Wüste gebracht,
 
 171
-00:14:27,357 --> 00:14:30,533
+00:14:27,357 --> 00:14:30,500
 weil er immer wieder gezwungen wurde, seinen Lauf zu ändern
 
 172
-00:14:30,533 --> 00:14:32,056
+00:14:30,600 --> 00:14:32,056
 und sich ein neues Bett zu suchen.
 
 173
@@ -722,7 +722,7 @@ auf eine harte Probe.
 Auch den See Sarakamisch,
 
 179
-00:15:17,800 --> 00:15:20,000
+00:15:17,900 --> 00:15:20,000
 der uns in der Ferne wie eine Fata Morgana erscheint,
 
 180
@@ -730,15 +730,15 @@ der uns in der Ferne wie eine Fata Morgana erscheint,
 schuf der Amu Darja einst, als er sich hierher ergoss.
 
 181
-00:15:31,600 --> 00:15:34,600
+00:15:31,600 --> 00:15:34,100
 Nur gespeist von Grundwasser und Frühjahrsniederschlägen
 
 182
-00:15:34,100 --> 00:15:37,200
+00:15:34,200 --> 00:15:37,200
 trocknet er im Sommer fast bis zur Hälfte aus.
 
 183
-00:15:36,851 --> 00:15:39,513
+00:15:37,851 --> 00:15:39,513
 * weiter Ufer * entlang.
 
 184
@@ -849,7 +849,7 @@ nicht zu Vergleichen mit anderen Bewohnern der Wüste
 zum Beispiel den Schlangen.
 
 210
-00:17:38,400 --> 00:17:39,800
+00:17:38,400 --> 00:17:39,600
 Deshalb, so sagt *
 
 211
@@ -1059,7 +1059,7 @@ Sorgen macht uns eine defekte Kupplung
 einer der 250er Maschinen.
 
 261
-00:20:48,600 --> 00:20:51,200
+00:20:49,200 --> 00:20:51,200
 Das Ergebnis einer zu großer Belastung.
 
 262
@@ -1127,7 +1127,7 @@ ist das Bewusstsein,
 dass man weit weg vom Menschen und
 
 278
-00:22:05,000 --> 00:22:08,200
+00:22:05,300 --> 00:22:08,200
 von der Zivilisation ganz auf sich allein gestellt ist.
 
 279
@@ -1135,7 +1135,7 @@ von der Zivilisation ganz auf sich allein gestellt ist.
 Besonders nachts
 
 280
-00:22:10,000 --> 00:22:11,200
+00:22:10,100 --> 00:22:11,200
 wenn Totenstille herrscht und
 
 281
@@ -1164,7 +1164,7 @@ wenn gesagt wird,
 Warum zum Monde fliegen,
 
 287
-00:22:22,800 --> 00:22:25,200
+00:22:23,900 --> 00:22:25,200
 wenn man noch hier die gleichen
 Empfindungen spüren kann?
 
@@ -1185,7 +1185,7 @@ die sich uns jedoch nicht nähern
 reißt uns immer wieder aus dem Schlaf.
 
 292
-00:23:04,800 --> 00:23:07,000
+00:23:04,800 --> 00:23:06,800
 Sie verstummen erst, als der Morgen graut.
 
 293
@@ -1193,7 +1193,7 @@ Sie verstummen erst, als der Morgen graut.
 * Empfindlichkeit
 
 294
-00:23:09,100 --> 00:23:11,100
+00:23:09,300 --> 00:23:11,100
 denn die Temperaturen fallen in den Septembernächten
 
 295
@@ -1219,7 +1219,7 @@ die größeren Probleme.
 Bevor wir für die vorletzte Wegstrecke aufbrechen,
 
 300
-00:24:07,400 --> 00:24:08,900
+00:24:07,400 --> 00:24:08,800
 fragen wir *
 
 301
@@ -1243,7 +1243,7 @@ deren Leistungen er sehr hoch schätze, sagt er.
 Kein Einziges Motorrad ist auf der Strecke geblieben,
 
 306
-00:24:27,600 --> 00:24:29,100
+00:24:27,700 --> 00:24:29,100
 kein Kolben hat geklemmt,
 
 307
@@ -1309,7 +1309,7 @@ bis zum persischen Golf vordrangen.
 Angelangt am Endpunkt unserer Expedition,
 
 322
-00:25:38,200 --> 00:25:39,100
+00:25:38,200 --> 00:25:39,200
 Chiwa.
 
 323
@@ -1317,11 +1317,11 @@ Chiwa.
 Begehrtes Reiseziel schon seit vielen Jahrhunderten.
 
 324
-00:26:03,900 --> 00:26:06,900
+00:26:03,900 --> 00:26:06,700
 Vor 2500 Jahren ist Chiwa nach Samarkand
 
 325
-00:26:06,100 --> 00:26:09,700
+00:26:06,900 --> 00:26:09,700
 die zweitälteste Stadt Mittelasiens.
 
 326
@@ -1333,7 +1333,7 @@ Alexander der Große und Dchingis-Khan
 ließen sie erobern
 
 328
-00:26:13,400 --> 00:26:14,100
+00:26:13,400 --> 00:26:14,500
 und Timur stellte sie unter seinen Schutz.
 
 329
@@ -1354,7 +1354,7 @@ endlich ein frisches Bad und
 ein weiches Bett erwarten,
 
 333
-00:26:34,700 --> 00:26:36,400
+00:26:34,700 --> 00:26:36,300
 ist eine ehemalige Koranschule,
 
 334
@@ -1362,11 +1362,11 @@ ist eine ehemalige Koranschule,
 die Medrese Muhammad Amin Khan.
 
 335
-00:26:44,500 --> 00:26:46,400
+00:26:44,500 --> 00:26:46,300
 Ein Blick in das Auditorium
 
 336
-00:26:46,300 --> 00:26:49,300
+00:26:46,400 --> 00:26:49,300
 und auf das unvollendete Minarett Kalta Minor,
 
 337
@@ -1378,7 +1378,7 @@ ein Denkmal des alten Kahns
 Nach dem Willen des Khans von Chiwa
 
 339
-00:26:53,600 --> 00:26:57,400
+00:26:53,900 --> 00:26:57,400
 sollte es mir 130 Metern das Größte
 der islamischen Welt werden.
 
@@ -1433,7 +1433,7 @@ wurde der heute uns allen bekannte mathematische Begriff
 Algorithmus abgeleitet
 
 352
-00:27:29,400 --> 00:27:31,500
+00:27:29,700 --> 00:27:31,500
 ohne den auch moderne Computerprogramme
 
 353
@@ -1449,7 +1449,7 @@ Hunderttausende Gäste empfängt jährlich die Stadt
 die nicht mehr als 1.000 Einwohner zählt.
 
 356
-00:28:31,500 --> 00:28:34,100
+00:28:31,500 --> 00:28:34,000
 Hier sind Holzschnitzer und Kunsthandwerker zuhause,
 
 357
@@ -1465,15 +1465,15 @@ pflegen und erhalten.
 Erben der alten Meister, die diese Perle Mittelasiens einst schufen.
 
 360
-00:29:08,500 --> 00:29:10,657
+00:29:08,500 --> 00:29:10,600
 Touristen aus der ganzen Welt
 
 361
-00:29:10,657 --> 00:29:12,227
+00:29:10,700 --> 00:29:12,170
 auch aus der DDR
 
 362
-00:29:12,227 --> 00:29:13,331
+00:29:12,210 --> 00:29:13,331
 kommen nach Chiwa
 
 363
@@ -1497,7 +1497,7 @@ für das Abenteuer,
 Neun Tage auf MZ
 
 368
-00:29:26,500 --> 00:29:27,800
+00:29:26,300 --> 00:29:27,300
 durch die Karakum.
 
 369
@@ -1555,7 +1555,7 @@ Ein Film des Moskauer Büros
 des Fernsehens der DDR
 
 381
-00:30:10,100 --> 00:30:15,400
+00:30:10,900 --> 00:30:15,400
 Untertiteln
 trophysport.net / mz-forum.com, 2020
 
