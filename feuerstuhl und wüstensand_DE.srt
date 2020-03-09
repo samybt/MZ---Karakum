@@ -3,61 +3,61 @@
 Feuerstuhl und Wüstensand
 
 2
-00:00:56,200 --> 00:00:57,200
+00:00:55,439 --> 00:00:57,498
 Was uns bevorsteht,
 verehrte Zuschauer,
 
 3
-00:00:57,700 --> 00:00:59,200
+00:00:57,599 --> 00:00:59,424
 ist die größte Wüste Mittelasiens
 
 4
-00:00:59,300 --> 00:01:01,900
+00:00:59,609 --> 00:01:01,740
 Vor uns sind es 1500 Kilometer
 
 5
-00:01:01,700 --> 00:01:03,500
+00:01:01,841 --> 00:01:03,844
 bis zu der sagenhaften Stadt Chiwa (Usbekistan).
 
 6
-00:01:04,200 --> 00:01:05,900
+00:01:04,054 --> 00:01:05,842
 Es sind sowjetische Motorradsportler
 
 7
-00:01:06,000 --> 00:01:07,500
+00:01:05,962 --> 00:01:07,288
 denen wir uns anvertraut haben
 
 8
-00:01:07,100 --> 00:01:08,400
+00:01:07,395 --> 00:01:08,705
 die die MZ-Maschinen fahren.
 
 9
-00:01:09,200 --> 00:01:14,100
+00:01:08,911 --> 00:01:18,754
 Auf MZ durch die Karakum
 
 10
-00:01:18,600 --> 00:01:20,600
+00:01:18,855 --> 00:01:20,988
 Unsere Reiseroute führt uns
 von Aschhabat in Turkmenistan
 
 11
-00:01:20,900 --> 00:01:23,100
+00:01:20,370 --> 00:01:23,397
 bis zur Wüstenstadt Nebil Dag
 
 12
-00:01:23,300 --> 00:01:26,000
+00:01:23,499 --> 00:01:26,920
 Tschogyl, inmitten der Karakum,
 
 13
-00:01:26,200 --> 00:01:28,100
+00:01:27,021 --> 00:01:28,332
 über das Ustjurt-Plateau
 
 14
-00:01:28,200 --> 00:01:29,100
+00:01:28,533 --> 00:01:30,248
 bis zu dem Salzsee Sarakamych
 
 15
-00:01:30,200 --> 00:01:33,400
+00:01:30,448 --> 00:01:34,168
 und endet in Chiwa, dem Ziel unserer Expedition.
 
 16
@@ -65,27 +65,27 @@ und endet in Chiwa, dem Ziel unserer Expedition.
 Schone Dein Kamel
 
 17
-00:01:42,100 --> 00:01:44,500
+00:01:42,213 --> 00:01:44,331
 Denn in der Wüste ist es dein bester Freund
 
 18
-00:01:44,900 --> 00:01:46,600
+00:01:44,432 --> 00:01:47,259
 So sagt ein altes moslemisches Sprichwort.
 
 19
-00:01:47,400 --> 00:01:50,400
+00:01:48,380 --> 00:01:51,136
 Der tausend * lange *
 
 20
-00:01:50,500 --> 00:01:52,500
+00:01:51,257 --> 00:01:52,899
 *Sandstürme *
 
 21
-00:01:54,000 --> 00:01:55,100
+00:01:53,000 --> 00:01:55,660
 Eine Herausförderung für die 7 Männer
 
 22
-00:01:55,700 --> 00:01:58,100
+00:01:55,772 --> 00:01:58,804
 und ihre Maschinen aus Zschopau.
 
 23
@@ -97,19 +97,19 @@ Seiner Führung durch den Karakum
 haben wir uns anvertraut.
 
 25
-00:02:18,000 --> 00:02:20,900
-*, von Beruf Oberschullehrer in * bei Moskau
+00:02:17,686 --> 00:02:21,105
+*, von Beruf Hochschullehrer in * bei Moskau
 
 26
-00:02:21,700 --> 00:02:23,300
+00:02:21,622 --> 00:02:22,935
 hat die Wüste schon wiederholt
 
 27
-00:02:23,500 --> 00:02:24,700
+00:02:23,056 --> 00:02:24,262
 mit dem Zweirad bezwungen
 
 28
-00:02:25,000 --> 00:02:26,800
+00:02:24,366 --> 00:02:27,089
 und auch diesmal die Expeditionsstrecke ausgearbeitet.
 
 29
@@ -121,72 +121,72 @@ Wie vermag man sich denn hier zurechtufinden,
 frage ich ihn.
 
 31
-00:02:34,400 --> 00:02:35,700
+00:02:33,910 --> 00:02:36,043
 Es gibt ja weder Straßen noch Verkehrsschilder
 
 32
-00:02:35,800 --> 00:02:37,500
+00:02:36,256 --> 00:02:40,494
 oder Menschen, die man fragen könnte.
 
 33
-00:02:43,600 --> 00:02:45,400
+00:02:43,492 --> 00:02:45,856
 Er verlässt sich zunächst auf Kompass und Karte
 
 34
-00:02:45,600 --> 00:02:48,600
+00:02:45,957 --> 00:02:48,789
 und dann auf die jahrhunderte alte Karawanenwege.
 
 35
-00:02:48,900 --> 00:02:50,800
+00:02:48,899 --> 00:02:51,232
 Sie haben sich wie ein Wunder in der Karakum erhalten.
 
 36
-00:02:52,200 --> 00:02:54,900
+00:02:52,149 --> 00:02:54,770
 Der alte Karawanenweg wird uns im Notfall,
 so sagt er, bis zur nächsten Siedlung führen.
 
 37
-00:02:56,300 --> 00:02:57,800
+00:02:55,277 --> 00:02:57,630
 Denn niemand kann uns unterwegs helfen,
 
 38
-00:02:58,000 --> 00:02:58,800
+00:02:57,840 --> 00:02:59,074
 keiner kann uns den Weg zeigen,
 
 39
-00:02:58,600 --> 00:03:00,200
+00:02:59,189 --> 00:03:00,518
 uns Nahrung und Wasser geben
 
 40
-00:03:00,400 --> 00:03:02,500
+00:03:00,383 --> 00:03:02,831
 oder gar medizinische Hilfe leisten.
 
 41
-00:03:03,500 --> 00:03:05,300
+00:03:02,397 --> 00:03:05,532
 Wir sind fernab jeder Zivilisation
 
 42
-00:03:05,800 --> 00:03:07,100
+00:03:05,663 --> 00:03:07,628
 völlig auf uns alleine aufgewiesen.
 
 43
-00:03:08,100 --> 00:03:09,100
+00:03:08,453 --> 00:03:10,370
 Und wenn es zu Unglücksfällen kommt,
 
 44
-00:03:10,500 --> 00:03:11,400
+00:03:10,471 --> 00:03:11,484
 versagen Fahrzeuge
 
 45
-00:03:11,500 --> 00:03:12,900
+00:03:11,585 --> 00:03:12,795
 oder das Wasser ausgeht,
 
 46
-00:03:12,100 --> 00:03:13,100
+00:03:12,903 --> 00:03:14,211
 dann sterben Menschen,
 
 47
-00:03:14,100 --> 00:03:15,400
+00:03:14,311 --> 00:03:16,667
 weil sie schlecht vorbereitet waren.
 
 48
@@ -227,52 +227,52 @@ Eine Prüfung auf Herz und Nieren,
 auf Kupplung und Zylinder.
 
 57
-00:03:58,200 --> 00:03:59,700
+00:03:58,647 --> 00:04:00,110
 Bis auf *, der
 
 58
-00:03:59,900 --> 00:04:01,300
+00:04:00,310 --> 00:04:01,423
 * an der Erdgaspipeline arbeitet,
 
 59
-00:04:01,400 --> 00:04:02,700
+00:04:01,423 --> 00:04:02,940
 zu der keine feste Straße führt
 
 60
-00:04:02,723 --> 00:04:05,036
+00:04:03,148 --> 00:04:05,666
 macht die Wüste keinem von uns Sorgen.
 
 61
-00:04:05,600 --> 00:04:06,700
+00:04:05,666 --> 00:04:06,925
 Im Gegensatz zu den Geologen,
 
 62
-00:04:06,900 --> 00:04:08,100
+00:04:07,076 --> 00:04:08,296
 die in den dreißiger Jahren
 
 63
-00:04:08,200 --> 00:04:09,600
+00:04:07,888 --> 00:04:09,700
 als erste hierher vordrangen
 
 64
-00:04:09,800 --> 00:04:11,100
+00:04:09,801 --> 00:04:12,635
 und an die dieses Denkmal erinnert.
 
 65
-00:04:19,100 --> 00:04:20,700
+00:04:19,013 --> 00:04:20,419
 Auf den folgenden Kilometern zeigt sich
 
 66
-00:04:20,100 --> 00:04:23,600
+00:04:20,525 --> 00:04:23,650
 die Karakum sogar
 ausgesprochen motorradfreundlich
 
 67
-00:04:23,800 --> 00:04:27,200
+00:04:24,178 --> 00:04:27,208
 mit ihren weiten Ebenen und Flächen aus Lehm und Ton
 
 68
-00:04:27,400 --> 00:04:29,600
+00:04:27,418 --> 00:04:29,856
 die zum typischen Bild dieser Wüste gehören.
 
 69
@@ -304,68 +304,68 @@ eine 150er,
 und eine 125er MZ.
 
 76
-00:05:22,400 --> 00:05:24,600
+00:05:22,376 --> 00:05:24,658
 Als wir die kleine Wüstensiedlung Tschogyl erreichen
 
 77
-00:05:24,800 --> 00:05:27,200
+00:05:24,758 --> 00:05:27,180
 ist das nicht nur für uns ein großes Ereignis.
 
 78
-00:05:34,100 --> 00:05:36,800
+00:05:34,076 --> 00:05:36,694
 Etwa 300 Menschen leben in diesem Hirtendorf.
 
 79
-00:05:38,100 --> 00:05:40,600
+00:05:36,902 --> 00:05:40,527
 Mit Schule, Postamt und einem Kaufhaus
 
 80
-00:05:40,900 --> 00:05:43,100
+00:05:40,822 --> 00:05:43,266
 ist das der letzte Vorposten der Zivilisation
 
 81
-00:05:43,300 --> 00:05:45,100
+00:05:43,473 --> 00:05:45,525
 den wir passieren.
 
 82
-00:06:01,800 --> 00:06:03,300
+00:06:01,959 --> 00:06:03,331
 An der Seidenstraße gelegen,
 
 83
-00:06:03,600 --> 00:06:06,300
+00:06:03,573 --> 00:06:06,298
 rasteten hier Karawanen ... auf ihrem Wege von China
 
 84
-00:06:06,400 --> 00:06:07,500
+00:06:06,298 --> 00:06:07,589
 bis zum schwarzen Meer,
 
 85
-00:06:07,700 --> 00:06:10,500
+00:06:07,833 --> 00:06:11,478
 löschten Reisende aus vielen Ländern hier ihren Durst.
 
 86
-00:06:17,900 --> 00:06:19,100
+00:06:17,847 --> 00:06:20,097
 Vor uns liegen 500 km
 
 87
-00:06:20,200 --> 00:06:22,200
+00:06:20,376 --> 00:06:22,798
 für die wir 5 Tage brauchen werden.
 
 88
-00:06:22,800 --> 00:06:24,200
+00:06:23,012 --> 00:06:24,340
 Bis zur nächsten Trinkwasserquelle,
 
 89
-00:06:24,600 --> 00:06:26,300
+00:06:24,546 --> 00:06:25,954
 bis zur nächsten Siedlung.
 
 90
-00:06:28,600 --> 00:06:31,300
+00:06:28,558 --> 00:06:31,885
 Letzte Möglichkeit, noch einmal
 all unseren Vorräter aufzufüllen,
 
 91
-00:06:31,900 --> 00:06:35,400
+00:06:32,091 --> 00:06:35,778
 für diese schwierigste, gefährlichste Wegstrecke.
 
 92
@@ -374,7 +374,7 @@ Ob die Maschinen sie bewältigen
 
 93
 00:06:51,600 --> 00:06:54,500
-wird bei aller Bewunderung für die Tecnik angezweifelt.
+wird bei aller Bewunderung für die Technik angezweifelt.
 
 94
 00:06:55,700 --> 00:06:57,200
@@ -434,23 +434,23 @@ Kurze Rast bei 35°C im Schatten.
 Aber wo ist schon Schatten?
 
 108
-00:09:27,500 --> 00:09:28,100
+00:09:27,447 --> 00:09:28,889
 Unser Vorrat an Trinkwasser
 
 109
-00:09:29,300 --> 00:09:30,700
+00:09:28,992 --> 00:09:31,416
 6 Kanister.
 
 110
-00:09:31,400 --> 00:09:32,600
+00:09:31,386 --> 00:09:32,293
 Das hört sich nach viel an,
 
 111
-00:09:32,800 --> 00:09:35,700
+00:09:32,395 --> 00:09:36,074
 ist aber nicht mehr als drei Liter pro Mann am Tag.
 
 112
-00:09:36,200 --> 00:09:38,800
+00:09:36,182 --> 00:09:38,532
 Und das reicht kaum aus, um den brennenden Durst zu löschen.
 
 113
@@ -467,7 +467,7 @@ erinnert sich an seine erste Karakum-Expedition.
 
 116
 00:09:56,300 --> 00:09:58,900
-auf der sie das Wasser in Platikkanistern mitnahmen/
+auf der sie das Wasser in Platikkanistern mitnahmen.
 
 117
 00:09:59,200 --> 00:10:03,300
@@ -507,15 +507,15 @@ Was geschieht, wenn uns irgendetwas zustößt,
 Wir haben ja nicht einmal ein Funkgerät!
 
 126
-00:10:33,800 --> 00:10:35,500
+00:10:33,458 --> 00:10:36,142
 frage ich den Leiter der Expedition *
 
 127
-00:10:35,600 --> 00:10:37,100
+00:10:36,240 --> 00:10:38,454
 Maschinenbaumeister in Estland,
 
 128
-00:10:38,500 --> 00:10:41,800
+00:10:38,655 --> 00:10:40,985
 der die Verantwortung für die Sicherheit der Gruppe trägt.
 
 129
@@ -626,7 +626,7 @@ bis zu einer Höhe von 370 Meter.
 
 155
 00:12:46,900 --> 00:12:50,600
-Auf dieser rund 200/000 km2 großen Steinwüste,
+Auf dieser rund 200.000 km2 großen Steinwüste,
 
 156
 00:12:51,100 --> 00:12:53,600
@@ -681,19 +681,19 @@ Das Ustjurt-Plateau ist überwunden.
 * der vor 20 Tausend Jahren ein Meer umspülte.
 
 169
-00:14:20,600 --> 00:14:20,600
+00:14:18,590 --> 00:14:22,485
 Gefüllt vom Amu Darja, dem größten Fluß Mittelasiens.
 
 170
-00:14:24,600 --> 00:14:27,300
+00:14:22,888 --> 00:14:27,256
 Er hat auch die riesigen Sandmengen in die Wüste gebracht,
 
 171
-00:14:27,500 --> 00:14:30,100
+00:14:27,357 --> 00:14:30,533
 weil er immer wieder gezwungen wurde, seinen Lauf zu ändern
 
 172
-00:14:30,300 --> 00:14:31,100
+00:14:30,533 --> 00:14:32,056
 und sich ein neues Bett zu suchen.
 
 173
@@ -738,7 +738,7 @@ Nur gespeist von Grundwasser und Frühjahrsniederschlägen
 trocknet er im Sommer fast bis zur Hälfte aus.
 
 183
-00:15:37,400 --> 00:15:40,500
+00:15:36,851 --> 00:15:39,513
 * weiter Ufer * entlang.
 
 184
@@ -899,20 +899,20 @@ Vor allen Dingen muß die Stichwunde
 ordentlich behandelt werden.
 
 222
-00:18:10,900 --> 00:18:13,400
+00:18:10,890 --> 00:18:13,303
 Wir hatten noch keine Arzneimittel bei der Hand,
 
 223
-00:18:13,600 --> 00:18:15,100
+00:18:13,404 --> 00:18:16,028
 konnten nur mit Streichhölzern die Wunde gut ausbrennen.
 
 224
-00:18:16,300 --> 00:18:19,200
+00:18:16,632 --> 00:18:19,852
 Das musste sofort geschehen,
 damit sich das Gift nicht ausbreitet.
 
 225
-00:18:19,700 --> 00:18:21,100
+00:18:19,952 --> 00:18:21,769
 Natürlich muss man sofort den Arm abbinden
 
 226
@@ -1021,16 +1021,16 @@ prächtige Paläste und Gebetshäuser, erzählt er,
 Moscheen und reiche Bibliotheken.
 
 252
-00:20:18,409 --> 00:20:21,402
+00:20:18,823 --> 00:20:21,962
 Vor ihren Feldern enstreckte sich
 ein gewaltiges Bewässerungssystem
 
 253
-00:20:22,159 --> 00:20:23,468
+00:20:22,071 --> 00:20:23,394
 mit unzähligen Kanälen,
 
 254
-00:20:23,777 --> 00:20:25,993
+00:20:23,499 --> 00:20:26,623
 das Felder und Obstgärten tränkte.
 
 255
@@ -1042,12 +1042,12 @@ Kaum geht die Sonne unter,
 so bricht die Nacht ein.
 
 257
-00:20:36,400 --> 00:20:38,100
+00:20:36,438 --> 00:20:38,409
 Die Änderung der Temperatur
 und des Lichts geschieht in Minuten.
 
 258
-00:20:38,400 --> 00:20:40,400
+00:20:38,525 --> 00:20:40,249
 Dämmerstunden gibt es hier nicht.
 
 259
@@ -1063,19 +1063,19 @@ einer der 250er Maschinen.
 Das Ergebnis einer zu großer Belastung.
 
 262
-00:20:53,400 --> 00:20:56,200
+00:20:52,384 --> 00:20:56,792
 Im Schein der *licht versuchen wir sie wieder flott zu machen.
 
 263
-00:21:00,500 --> 00:21:03,600
+00:21:00,966 --> 00:21:03,664
 Gelingt es nicht, müssen wir die Maschine hier stehenlassen
 
 264
-00:21:03,800 --> 00:21:06,700
+00:21:03,793 --> 00:21:06,394
 und mit ihr auf einem Teil unserer Vorräte,
 
 265
-00:21:06,800 --> 00:21:08,900
+00:21:06,498 --> 00:21:10,267
 Wasser, Lebensmittel und *
 
 266
@@ -1203,7 +1203,7 @@ bis auf 5° Celsius oder noch tiefer,
 296
 00:23:14,500 --> 00:23:18,200
 während sie am Tage wieder
-auf 35° bis 30° im Schatten steigen.
+auf 35° bis 40° im Schatten steigen.
 
 297
 00:23:46,700 --> 00:23:48,500
@@ -1251,20 +1251,20 @@ kein Kolben hat geklemmt,
 bis auf eine Kupplung gab es keine größeren Defekte.
 
 308
-00:24:33,300 --> 00:24:35,500
+00:24:32,517 --> 00:24:35,539
 Für den Sand wäre allerdings eine spezielle Bereifung
 
 309
-00:24:35,700 --> 00:24:38,600
+00:24:35,647 --> 00:24:39,036
 und eine andere Übersetzung des Getriebes günstiger gewesen.
 
 310
-00:24:44,600 --> 00:24:47,500
+00:24:44,701 --> 00:24:47,627
 Die Telegabel und vor allem die Stoßdämpfer
 haben sich sehr gut bewährt
 
 311
-00:24:47,900 --> 00:24:49,900
+00:24:47,830 --> 00:24:50,564
 und alles ohne Schäden überstanden.
 
 312
@@ -1289,7 +1289,7 @@ Berühmt sind sie geworden für ihren grazilen Körperbau
 und die Elastizität ihrer Bewegungen.
 
 317
-00:25:17,200 --> 00:25:19,100
+00:25:16,490 --> 00:25:19,960
 Geschätzt sind ihre große Schnelligkeit und Ausdauer.
 
 318
@@ -1465,23 +1465,23 @@ pflegen und erhalten.
 Erben der alten Meister, die diese Perle Mittelasiens einst schufen.
 
 360
-00:29:08,500 --> 00:29:08,600
+00:29:08,500 --> 00:29:10,657
 Touristen aus der ganzen Welt
 
 361
-00:29:10,800 --> 00:29:11,100
+00:29:10,657 --> 00:29:12,227
 auch aus der DDR
 
 362
-00:29:12,100 --> 00:29:13,100
+00:29:12,227 --> 00:29:13,331
 kommen nach Chiwa
 
 363
-00:29:13,400 --> 00:29:14,700
+00:29:13,534 --> 00:29:14,854
 Aber auf bequemeren Wegen
 
 364
-00:29:14,100 --> 00:29:16,100
+00:29:15,057 --> 00:29:16,768
 Mit dem Flugzeug.
 
 365
