@@ -702,7 +702,7 @@ So ist diese Landschaft in vielem das Werk dieses unruhigen Stroms.
 
 174
 00:14:44,300 --> 00:14:47,300
-* wechselt Sand mit ausgetrocknetem Lehm und Moosboden
+Erneut wechselt Sand mit ausgetrocknetem Lehm und Moosboden
 
 175
 00:14:47,800 --> 00:14:49,900
@@ -1190,7 +1190,7 @@ Sie verstummen erst, als der Morgen graut.
 
 293
 00:23:06,900 --> 00:23:09,200
-* Empfindlichkeit
+* empfindlich kalt
 
 294
 00:23:09,300 --> 00:23:11,100

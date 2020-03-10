@@ -344,7 +344,7 @@
 00:14:32.1:
 00:14:32.4:So ist diese Landschaft in vielem das Werk dieses unruhigen Stroms.
 00:14:36.8:
-00:14:44.3:* wechselt Sand mit ausgetrocknetem Lehm und Moosboden
+00:14:44.3:Erneut wechselt Sand mit ausgetrocknetem Lehm und Moosboden
 00:14:47.3:
 00:14:47.8:den ebenfalls der Fluß mit sich trug.
 00:14:49.9:
@@ -582,7 +582,7 @@
 00:22:36.2:
 00:23:04.8:Sie verstummen erst, als der Morgen graut.
 00:23:06.8:
-00:23:06.9:* Empfindlichkeit
+00:23:06.9:* empfindlich kalt
 00:23:09.2:
 00:23:09.3:denn die Temperaturen fallen in den Septembernächten
 00:23:11.1:
