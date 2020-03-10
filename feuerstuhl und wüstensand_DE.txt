@@ -360,9 +360,9 @@
 00:15:24.4:
 00:15:31.6:Nur gespeist von Grundwasser und Frühjahrsniederschlägen
 00:15:34.1:
-00:15:34.2:trocknet er im Sommer fast bis zur Hälfte aus.
+00:15:34.2:trocknet er im Sommer fast bis zur Hälfte aus
 00:15:37.2:
-00:15:37.9:* weiter Ufer * entlang.
+00:15:37.9:und geht weiter Ufer * entlang.
 00:15:39.5:
 00:15:58.3:Ein Meer in der Wüste.
 00:15:59.9:
@@ -468,7 +468,7 @@
 00:19:18.7:
 00:19:18.8:war hier eines der Zentren
 00:19:21.5:
-00:19:21.8:des kulturell hochentwickelten des * Reiches,
+00:19:21.8:des kulturell hochentwickelten choresmischen Reiches,
 00:19:23.5:
 00:19:23.6:das sich vom kaspischen Meer bis zum persischen Golf,
 00:19:26.1:
@@ -526,7 +526,7 @@
 00:21:03.7:
 00:21:03.8:und mit ihr auf einem Teil unserer Vorräte,
 00:21:06.4:
-00:21:06.5:Wasser, Lebensmittel und *
+00:21:06.5:Wasser, Lebensmittel und Treibstoff.
 00:21:10.3:
 00:21:19.6:Nicht zum ersten Mal erleben die Manner eine solche Situation.
 00:21:22.4:
