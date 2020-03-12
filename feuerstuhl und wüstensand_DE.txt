@@ -62,7 +62,7 @@
 00:02:36.0:
 00:02:36.3:oder Menschen, die man fragen könnte.
 00:02:40.5:
-00:02:43.5:Er verweis zunächst auf Kompass und Karte
+00:02:43.5:Er verweist zunächst auf Kompass und Karte
 00:02:45.9:
 00:02:45.1:und dann auf die jahrhunderte alten Karawanenpfade,
 00:02:48.8:
@@ -594,7 +594,7 @@
 00:23:48.5:
 00:23:48.6:so bringt uns das Seitenwagengespann|die größeren Probleme.
 00:23:51.6:
-00:24:05.1:Bevor wir zur die letzten Wegstrecke aufbrechen,
+00:24:05.1:Bevor wir zur letzten Wegstrecke aufbrechen,
 00:24:07.2:
 00:24:07.4:die Frage an Enzeig*
 00:24:08.8:

@@ -132,7 +132,7 @@ oder Menschen, die man fragen könnte.
 
 33
 00:02:43,492 --> 00:02:45,856
-Er verweis zunächst auf Kompass und Karte
+Er verweist zunächst auf Kompass und Karte
 
 34
 00:02:45,957 --> 00:02:48,789
@@ -1220,7 +1220,7 @@ die größeren Probleme.
 
 299
 00:24:05,100 --> 00:24:07,200
-Bevor wir zur die letzten Wegstrecke aufbrechen,
+Bevor wir zur letzten Wegstrecke aufbrechen,
 
 300
 00:24:07,400 --> 00:24:08,800
