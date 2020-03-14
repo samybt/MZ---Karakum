@@ -1,4 +1,4 @@
-00:00:42.2:Feuerstuhl und Wüstensand
+﻿00:00:42.2:Feuerstuhl und Wüstensand
 00:00:47.7:
 00:00:55.4:Wir sind auf dem Wege,|verehrte Zuschauer,
 00:00:57.5:
@@ -28,7 +28,7 @@
 00:01:28.3:
 00:01:28.4:bis zu dem Salzsee Sarakamych
 00:01:30.1:
-00:01:30.3:und von dort aus zum Zielpunkt unserer Expedition,
+00:01:30.3:und von dort aus zum|Zielpunkt unserer Expedition,
 00:01:32.8:
 00:01:32.9:Chiwa.
 00:01:33.9:
@@ -60,9 +60,9 @@
 00:02:22.9:
 00:02:23.1:mit dem Zweirad bezwungen
 00:02:24.3:
-00:02:24.5:und auch diesmal die Expeditionsstrecke ausgearbeitet.
+00:02:24.5:und auch diesmal die|Expeditionsstrecke ausgearbeitet.
 00:02:26.8:
-00:02:30.9:Wie vermag man sich denn hier zurechtzufinden,
+00:02:30.9:Wie vermag man sich|denn hier zurechtzufinden,
 00:02:33.0:
 00:02:33.1:frage ich ihn.
 00:02:34.1:
@@ -72,11 +72,11 @@
 00:02:38.1:
 00:02:43.4:Er verweist zunächst auf Kompass und Karte
 00:02:45.7:
-00:02:46.1:und dann auf die jahrhunderte alten Karawanenpfade,
+00:02:46.1:und dann auf die jahrhunderte|alten Karawanenpfade,
 00:02:48.8:
-00:02:48.9:die sich wie ein Wunder in der Karakum erhalten haben.
+00:02:48.9:die sich wie ein Wunder in|der Karakum erhalten haben.
 00:02:51.2:
-00:02:52.1:Sie würden uns im Notfall zu irgendeiner Siedlung führen.
+00:02:52.1:Sie würden uns im Notfall zu|irgendeiner Siedlung führen.
 00:02:55.2:
 00:02:56.1:Denn niemand kann uns unterwegs helfen,
 00:02:57.6:
@@ -106,7 +106,7 @@
 00:03:25.1:
 00:03:25.2:extremen Bedingungen der Wüste,
 00:03:26.7:
-00:03:27.1:gilt es, ihre Konstruktion, Zuverlässigkeit und Robustheit
+00:03:27.1:gilt es, ihre Konstruktion,|Zuverlässigkeit und Robustheit
 00:03:30.2:
 00:03:30.5:härtesten Bewährungsproben auszusetzen.
 00:03:32.6:
@@ -114,7 +114,7 @@
 00:03:40.3:
 00:03:40.7:haben sich bereit erklärt,
 00:03:41.7:
-00:03:41.8:für MZ diesen außergewöhnlichen Test zu fahren.
+00:03:41.8:für MZ diesen|außergewöhnlichen Test zu fahren.
 00:03:44.1:
 00:03:45.3:Ein Test auf Herz und Nieren,|auf Kupplung und Zylinder.
 00:03:48.4:
@@ -138,7 +138,7 @@
 00:04:20.4:
 00:04:20.5:die Karakum sogar|ausgesprochen motorradfreundlich
 00:04:23.6:
-00:04:24.2:mit ihren weiten Ebenen und Flächen aus Lehm und Ton
+00:04:24.2:mit ihren weiten Ebenen und|Flächen aus Lehm und Ton
 00:04:27.2:
 00:04:27.6:die zum typischen Bild dieser Wüste gehören.
 00:04:29.9:
@@ -156,7 +156,7 @@
 00:05:07.2:
 00:05:07.4:und eine 125er MZ.
 00:05:09.3:
-00:05:22.4:Als wir die kleine Wüstensiedlung Tschogyl erreichen
+00:05:22.4:Als wir die kleine|Wüstensiedlung Tschogyl erreichen
 00:05:24.5:
 00:05:24.8:ist das nicht nur für uns ein großes Ereignis.
 00:05:27.2:
@@ -174,7 +174,7 @@
 00:06:05.7:
 00:06:06.1:bis zum schwarzen Meer,
 00:06:07.6:
-00:06:07.8:löschten Reisende aus vielen Ländern ihren Durst.
+00:06:07.8:löschten Reisende aus|vielen Ländern ihren Durst.
 00:06:10.6:
 00:06:17.8:Vor uns liegen 500 km
 00:06:19.1:
@@ -186,11 +186,11 @@
 00:06:25.1:
 00:06:28.5:Letzte Möglichkeit, noch einmal|all unseren Vorräter aufzufüllen,
 00:06:31.1:
-00:06:32.1:für diese schwierigste, gefährlichste Wegstrecke.
+00:06:32.1:für diese schwierigste,|gefährlichste Wegstrecke.
 00:06:35.4:
 00:06:49.6:Ob die Maschinen sie bewältigen
 00:06:51.5:
-00:06:51.6:wird bei aller Bewunderung für die Technik angezweifelt.
+00:06:51.6:wird bei aller Bewunderung|für die Technik angezweifelt.
 00:06:54.5:
 00:06:55.7:Einer der Aksakale des Dorfes,
 00:06:57.2:
@@ -204,15 +204,15 @@
 00:07:07.9:
 00:07:08.1:für die günstigste Reiseroute.
 00:07:09.4:
-00:07:14.1:Aber schon hier auf der Dorfstraße deutet sich an,
+00:07:14.1:Aber schon hier auf der|Dorfstraße deutet sich an,
 00:07:16.4:
 00:07:16.6:was uns in den nächsten 5 Tagen erwartet.
 00:07:19.3:
-00:08:13.9:Die größten Schwierigkeiten bereiten uns die Barkale,
+00:08:13.9:Die größten Schwierigkeiten|bereiten uns die Barkale,
 00:08:16.7:
-00:08:17.2:Wanderdünen, die sich bis zu 30 Metern hoch auftürmen können.
+00:08:17.2:Wanderdünen, die sich bis zu 30|Metern hoch auftürmen können.
 00:08:20.6:
-00:08:23.1:In ihrem Flugsand bleiben die Maschinen immer wieder stecken.
+00:08:23.1:In ihrem Flugsand bleiben die|Maschinen immer wieder stecken.
 00:08:26.0:
 00:08:31.4:So schaffen wir in 9 bis 10 Stunden|nicht mehr als ganze hundert Kilometer.
 00:08:35.8:
@@ -226,23 +226,23 @@
 00:09:30.5:
 00:09:31.2:Das hört sich viel an,
 00:09:32.3:
-00:09:32.4:ist aber nicht mehr als drei Liter pro Mann am Tag.
+00:09:32.4:ist aber nicht mehr als|drei Liter pro Mann am Tag.
 00:09:35.8:
-00:09:36.0:Und das reicht kaum aus, um den brennenden Durst zu löschen.
+00:09:36.0:Und das reicht kaum aus,|um den brennenden Durst zu löschen.
 00:09:38.5:
-00:09:39.3:Mehr jedoch vermögen die Maschinen nicht zu tragen.
+00:09:39.3:Mehr jedoch vermögen die|Maschinen nicht zu tragen.
 00:09:41.5:
-00:09:49.2:Ensaik, in Tallin als Stellvertretender Leiter der Verkehrspolizei tätig,
+00:09:49.2:Ensaik, in Tallin als Stellvertretender|Leiter der Verkehrspolizei tätig,
 00:09:52.0:
-00:09:52.1:erinnert sich an seine erste Karakum-Expedition.
+00:09:52.1:erinnert sich an seine|erste Karakum-Expedition.
 00:09:55.8:
-00:09:56.3:auf der sie das Trinkwasser in Plastikkanistern mitnahmen,
+00:09:56.3:auf der sie das Trinkwasser in|Plastikkanistern mitnahmen,
 00:09:58.9:
 00:09:59.2:was sich als ein verhängnisvoller Fehler erwies.
 00:10:03.3:
-00:10:06.3:Die Kanister hielten den Belastungen nicht stand.
+00:10:06.3:Die Kanister hielten den|Belastungen nicht stand.
 00:10:08.5:
-00:10:08.1:So verloren sie fast ihren gesamten Wasservorrat
+00:10:08.1:So verloren sie fast ihren|gesamten Wasservorrat
 00:10:11.5:
 00:10:11.6:bis auf anderthalb Liter für 200 Kilometer.
 00:10:14.0:
@@ -260,19 +260,19 @@
 00:10:36.3:
 00:10:36.5:Maschinenbaumeister in Estland,
 00:10:38.1:
-00:10:38.5:der die Verantwortung für die Sicherheit der Gruppe trägt.
+00:10:38.5:der die Verantwortung für die|Sicherheit der Gruppe trägt.
 00:10:41.1:
-00:10:44.5:Würde sich unsere erwartete Ankunft in der jeweils nächsten Siedlung
+00:10:44.5:Würde sich unsere erwartete Ankunft|in der jeweils nächsten Siedlung
 00:10:48.1:
-00:10:48.2:die wir telegrafisch unserem Sportclub melden müssen,
+00:10:48.2:die wir telegrafisch unserem|Sportclub melden müssen,
 00:10:51.0:
 00:10:51.1:um drei Tage verzögern
 00:10:52.7:
-00:10:52.9:so wird unser Club sofort eine Suchaktion auslösen,|beruhigt er mich.
+00:10:52.9:so wird unser Club sofort eine|Suchaktion auslösen, beruhigt er mich.
 00:10:56.2:
-00:10:56.7:Und das ist dann eine sehr komplizierte Angelegenheit.
+00:10:56.7:Und das ist dann eine sehr|komplizierte Angelegenheit.
 00:10:59.1:
-00:11:07.2:Wie wird man uns denn ausfindig machen können?
+00:11:07.2:Wie wird man uns denn|ausfindig machen können?
 00:11:09.4:
 00:11:10.0:Mit Flugzeugen und Hubschraubern.
 00:11:11.4:
@@ -280,11 +280,11 @@
 00:11:13.1:
 00:11:20.6:Erschwerend für die Fahrer ist,|daß die Maschinen stark überladen sind.
 00:11:23.9:
-00:11:24.0:Bis zu 40 Kg Übergepäck drücken auf die Stoßdämpfer.
+00:11:24.0:Bis zu 40 Kg Übergepäck|drücken auf die Stoßdämpfer.
 00:11:26.9:
-00:11:27.6:Zelte, Schlafsäcke, Trinkwasser und Lebensmittel
+00:11:27.6:Zelte, Schlafsäcke,|Trinkwasser und Lebensmittel
 00:11:30.8:
-00:11:30.9:sowie auch unsere Filmtechnik, die alleine schon 50 kg wiegt.
+00:11:30.9:sowie auch unsere Filmtechnik,|die alleine schon 50 kg wiegt.
 00:11:34.2:
 00:11:35.1:Vor allem aber Treibstoff
 00:11:36.6:
@@ -306,23 +306,23 @@
 00:12:18.1:
 00:12:18.2:im Nordosten der Karakum erreicht.
 00:12:19.9:
-00:12:20.4:die sich uns damit von einer völlig neuen Seite zeigt.
+00:12:20.4:die sich uns damit von|einer völlig neuen Seite zeigt.
 00:12:23.4:
-00:12:26.2:Wie ein gewaltiger Tafelberg erheben sich stufenartig
+00:12:26.2:Wie ein gewaltiger Tafelberg|erheben sich stufenartig
 00:12:29.2:
 00:12:29.4:Kalk- und Sandsteinschichten
 00:12:30.7:
 00:12:30.8:bis zu einer Höhe von 370 Meter.
 00:12:33.2:
-00:12:46.9:Auf dieser rund 200.000 km2 großen Steinwüste,
+00:12:46.9:Auf dieser rund 200.000 km2|großen Steinwüste,
 00:12:50.6:
 00:12:51.1:zweimal so groß wie das Territorium der DDR,
 00:12:53.6:
-00:12:53.8:gibt es keine Siedlungen, leben keine Menschen.
+00:12:53.8:gibt es keine Siedlungen,|leben keine Menschen.
 00:12:56.0:
-00:13:00.2:Der spärliche Niederschlag läßt auf den versandeten Boden
+00:13:00.2:Der spärliche Niederschlag|läßt auf den versandeten Boden
 00:13:02.8:
-00:13:03.0:nur die genügsamsten Wüstenpflanzen gedeihen.
+00:13:03.0:nur die genügsamsten|Wüstenpflanzen gedeihen.
 00:13:05.3:
 00:13:05.7:Salzkraut und Wermut, Kameldorn und Saksuit*
 00:13:08.7:
@@ -346,17 +346,17 @@
 00:14:15.7:
 00:14:15.8:vor Zwanzigtausend Jahren ein Meer umspülte.
 00:14:18.7:
-00:14:19.1:Gefüllt vom Amu Darja, dem größten Fluß Mittelasiens.
+00:14:19.1:Gefüllt vom Amu Darja,|dem größten Fluß Mittelasiens.
 00:14:22.5:
-00:14:24.3:Er hat auch die riesigen Sandmengen in die Wüste gebracht,
+00:14:24.3:Er hat auch die riesigen|Sandmengen in die Wüste gebracht,
 00:14:27.3:
-00:14:27.9:die ihn dabei immer wieder zwangen, seinen Lauf zu ändern
+00:14:27.9:die ihn dabei immer wieder|zwangen, seinen Lauf zu ändern
 00:14:30.3:
 00:14:30.4:und sich ein neues Bett zu suchen.
 00:14:31.9:
-00:14:33.2:So ist diese Landschaft in vielem das Werk dieses unruhigen Stroms.
+00:14:33.2:So ist diese Landschaft in vielem|das Werk dieses unruhigen Stroms.
 00:14:37.2:
-00:14:44.3:Erneut wechselt Sand mit ausgetrocknetem Lehm- und Lössboden
+00:14:44.3:Erneut wechselt Sand mit|ausgetrocknetem Lehm- und Lössboden
 00:14:47.3:
 00:14:47.5:den ebenfalls der Fluß mit sich trug.
 00:14:49.9:
@@ -366,13 +366,13 @@
 00:14:56.1:
 00:15:16.0:Auch den See Sarakamisch,
 00:15:17.8:
-00:15:17.9:der uns in der Ferne wie eine Fata Morgana erscheint,
+00:15:17.9:der uns in der Ferne wie|eine Fata Morgana erscheint,
 00:15:20.4:
 00:15:20.8:schuf der Amu Darja einst,
 00:15:22.5:
 00:15:22.6:als er sich hierher ergoss.
 00:15:24.4:
-00:15:31.3:Heute nur gespeist von Grundwasser und Frühjahresniederschlägen
+00:15:31.3:Heute nur gespeist von Grundwasser|und Frühjahresniederschlägen
 00:15:34.6:
 00:15:34.9:trocknet er im Sommer fast bis zur Hälfte aus
 00:15:37.2:
@@ -380,11 +380,11 @@
 00:15:39.5:
 00:15:58.3:Ein Meer in der Wüste.
 00:15:59.7:
-00:15:59.9:Ein bittersalzsee, dessen Wasser ungenießbar ist.
+00:15:59.9:Ein bittersalzsee,|dessen Wasser ungenießbar ist.
 00:16:02.6:
 00:16:15.5:Über die Hälfte der Strecke zwischen|Aschchabat und Chiwa ist zurückgelegt
 00:16:19.5:
-00:16:19.9:und die Maschinen haben uns nicht im Stich gelassen.
+00:16:19.9:und die Maschinen haben|uns nicht im Stich gelassen.
 00:16:22.3:
 00:16:24.8:Wollen sie nicht so recht ziehen,
 00:16:27.0:
@@ -392,7 +392,7 @@
 00:16:28.7:
 00:16:29.9:Mindestens zwei Mal am Tag
 00:16:31.9:
-00:16:32.0:müssen die Luftfilter|von dem feinen, alles durchdringenden Staub befreit werden.
+00:16:32.0:müssen die Luftfilter von dem feinen,|alles durchdringenden Staub befreit werden.
 00:16:35.2:
 00:16:42.6:Wir haben Glück Fischer anzutreffen.
 00:16:44.6:
@@ -404,11 +404,11 @@
 00:16:50.1:
 00:16:53.5:Was sie fangen sind Süßwasserfische,
 00:16:55.1:
-00:16:55.2:die sich an das Salz des Sarakamisch gewöhnt haben,
+00:16:55.2:die sich an das Salz des|Sarakamisch gewöhnt haben,
 00:16:57.8:
 00:16:58.1:Übrigens, sehr wohlschmeckende.
 00:16:59.6:
-00:17:00.2:Eine willkommene Abwechslung auf unserem Speisezettel.
+00:17:00.2:Eine willkommene Abwechslung|auf unserem Speisezettel.
 00:17:02.9:
 00:17:03.2:Fischsuppe a la Karakum.
 00:17:05.1:
@@ -420,7 +420,7 @@
 00:17:18.4:
 00:17:19.7:Der kräftige Biss der Echse,
 00:17:20.8:
-00:17:21.0:die ausgewachsen bis zu anderthalb Meter lang wird,
+00:17:21.0:die ausgewachsen bis zu|anderthalb Meter lang wird,
 00:17:23.3:
 00:17:23.4:kann böse Folgen haben.
 00:17:24.7:
@@ -428,7 +428,7 @@
 00:17:28.4:
 00:17:28.6:und menschenscheue Tiere,
 00:17:29.7:
-00:17:29.9:nicht zu Vergleichen mit anderen Bewohnern der Wüste:
+00:17:29.9:nicht zu Vergleichen mit|anderen Bewohnern der Wüste:
 00:17:32.1:
 00:17:32.3:zum Beispiel den Schlangen.
 00:17:33.9:
@@ -456,23 +456,23 @@
 00:18:06.9:
 00:18:08.2:Vor allen Dingen muß die Stichwunde|ordentlich behandelt werden.
 00:18:10.8:
-00:18:11.5:Wir hatten aber keine Arzneimittel bei der Hand,
+00:18:11.5:Wir hatten aber keine|Arzneimittel bei der Hand,
 00:18:13.5:
-00:18:13.7:konnten nur mit Streichhölzern die Wunde tief ausbrennen.
+00:18:13.7:konnten nur mit Streichhölzern|die Wunde tief ausbrennen.
 00:18:16.0:
 00:18:16.5:Das musste sofort geschehen,|damit sich das Gift nicht ausbreitet.
 00:18:19.6:
-00:18:19.9:Natürlich muss man auch sofort den Arm abbinden
+00:18:19.9:Natürlich muss man auch|sofort den Arm abbinden
 00:18:22.0:
 00:18:22.3:und den Blutkreislauf absperren.
 00:18:24.4:
-00:18:27.4:Die Wüste setzt die Männer zahlreichen Gefahren
+00:18:27.4:Die Wüste setzt die|Männer zahlreichen Gefahren
 00:18:29.5:
 00:18:29.6:und Entbehrungen aus.
 00:18:30.8:
 00:18:31.3:Aber sie entschädigt sie auch dafür.
 00:18:33.2:
-00:18:38.7:Wir sind auf dem Wege zu der sagenumwobenen
+00:18:38.7:Wir sind auf dem Wege|zu der sagenumwobenen
 00:18:41.1:
 00:18:41.2:Ruinenstadt Schachsenem*
 00:18:42.9:
@@ -480,13 +480,13 @@
 00:18:45.7:
 00:18:45.1:im Norden der Karakum liegt.
 00:18:47.3:
-00:19:15.1:Im 4. Jahrhundert vor unserer Zeitrechnung gegründet,
+00:19:15.1:Im 4. Jahrhundert vor unserer|Zeitrechnung gegründet,
 00:19:18.7:
 00:19:18.9:war hier eines der Zentren
 00:19:21.5:
-00:19:21.8:des kulturell hochentwickelten choresmischen Reiches,
+00:19:21.8:des kulturell hochentwickelten|choresmischen Reiches,
 00:19:23.2:
-00:19:23.5:das sich vom kaspischen Meer bis zum persischen Golf,
+00:19:23.5:das sich vom kaspischen|Meer bis zum persischen Golf,
 00:19:26.1:
 00:19:26.2:vom Kaukasus bis zum Hindukusch erstreckte.
 00:19:28.8:
@@ -508,7 +508,7 @@
 00:19:55.4:
 00:20:04.8:Vor den Ruinen von Schachsenem
 00:20:06.4:
-00:20:06.5:erweist sich Robert Levy als ein Kenner mittelasiatischer Geschichte.
+00:20:06.5:erweist sich Robert Levy als ein|Kenner mittelasiatischer Geschichte.
 00:20:09.7:
 00:20:10.9:Das Zentrum der Stadt schmückten einst
 00:20:12.2:
@@ -536,19 +536,19 @@
 00:20:48.7:
 00:20:48.1:das Ergebnis zu großer Belastung.
 00:20:50.6:
-00:20:53.1:Im Scheinwerferlicht versuchen wir sie wieder flott zu machen.
+00:20:53.1:Im Scheinwerferlicht versuchen|wir sie wieder flott zu machen.
 00:20:56.8:
-00:21:00.1:Gelingt es nicht, müssen wir die Maschine hier stehenlassen
+00:21:00.1:Gelingt es nicht, müssen wir|die Maschine hier stehenlassen
 00:21:03.1:
 00:21:04.2:und mit ihr auf einem Teil unserer Vorräte,
 00:21:06.6:
 00:21:06.9:an Wasser, Lebensmittel und Treibstoff.
 00:21:09.0:
-00:21:19.6:Nicht zum ersten Mal erleben die Männer eine solche Situation.
+00:21:19.6:Nicht zum ersten Mal erleben|die Männer eine solche Situation.
 00:21:22.6:
 00:21:23.4:Sie alle sind erfahrene Motorsportler,
 00:21:25.5:
-00:21:25.8:haben mit ihren Maschinen die Eisgletscher des Elbrus erobert,
+00:21:25.8:haben mit ihren Maschinen die|Eisgletscher des Elbrus erobert,
 00:21:28.8:
 00:21:29.2:bei minus 40°C die BAM entlang gefahren.
 00:21:32.1:
@@ -560,21 +560,21 @@
 00:21:40.1:
 00:21:49.9:Was treibt Sie daran, frage ich Robert Levy,
 00:21:52.3:
-00:21:52.5:Was ist für Sie das Besondere an dieser Expedition?
+00:21:52.5:Was ist für Sie das Besondere|an dieser Expedition?
 00:21:55.7:
-00:21:59.1:Das Außergewöhnliche hier in der Wüste, sagt er,
+00:21:59.1:Das Außergewöhnliche|hier in der Wüste, sagt er,
 00:22:01.6:
 00:22:01.9:ist vielleicht das Bewusstsein dessen,
 00:22:03.5:
 00:22:03.7:dass man weit weg vom Menschen und
 00:22:05.2:
-00:22:05.3:von der Zivilisation ganz auf sich allein gestellt ist.
+00:22:05.3:von der Zivilisation ganz|auf sich allein gestellt ist.
 00:22:08.2:
 00:22:08.9:Besonders nachts
 00:22:09.9:
 00:22:10.0:wenn Totenstille herrscht, kein Vogelschrei
 00:22:11.0:
-00:22:11.4:und kein vorbeifliegendes Flugzeug zu vernehmen ist,
+00:22:11.4:und kein vorbeifliegendes|Flugzeug zu vernehmen ist,
 00:22:14.6:
 00:22:14.8:überkommt einem plötzlich
 00:22:16.3:
@@ -600,7 +600,7 @@
 00:23:06.1:
 00:23:07.4:Da ist es dann empfindlich kalt,
 00:23:09.0:
-00:23:09.5:denn die Temperaturen fallen in den Septembernächten
+00:23:09.5:denn die Temperaturen fallen|in den Septembernächten
 00:23:12.0:
 00:23:12.3:bis auf 5° Celsius oder noch tiefer,
 00:23:14.2:
@@ -620,17 +620,17 @@
 00:24:13.2:
 00:24:18.2:Es sind ganz ausgezeichnete Motorräder,
 00:24:19.9:
-00:24:20.1:deren Leistungen ich nur hoch einschätzen kann, sagt er.
+00:24:20.1:deren Leistungen ich nur hoch|einschätzen kann, sagt er.
 00:24:22.9:
 00:24:25.6:Kein Einziges ist auf der Strecke geblieben,
 00:24:27.6:
 00:24:27.7:kein Kolben heißgelaufen,
 00:24:29.1:
-00:24:29.2:bis auf eine Kupplung gab es keine größeren Defekte.
+00:24:29.2:bis auf eine Kupplung gab|es keine größeren Defekte.
 00:24:31.6:
-00:24:33.1:Für den Sand wäre allerdings eine spezielle Bereifung
+00:24:33.1:Für den Sand wäre allerdings|eine spezielle Bereifung
 00:24:35.5:
-00:24:35.6:und eine andere Übersetzung des Getriebes günstiger gewesen.
+00:24:35.6:und eine andere Übersetzung|des Getriebes günstiger gewesen.
 00:24:39.0:
 00:24:44.7:Lenker und vor allem die Stoßdämpfer|haben sich sehr gut bewährt
 00:24:47.6:
@@ -638,15 +638,15 @@
 00:24:50.6:
 00:24:57.8:Jetzt trennen uns nur noch wenige Kilometer|vom Ziel unserer Reise.
 00:25:01.9:
-00:25:03.0:Es sind Achaltekinerpferde*, die man hier züchtet.
+00:25:03.0:Es sind Achaltekinerpferde*,|die man hier züchtet.
 00:25:05.6:
-00:25:06.9:Sie gehören zu den ältesten und wohl auch schönsten Reitpferdearten.
+00:25:06.9:Sie gehören zu den ältesten und|wohl auch schönsten Reitpferdearten.
 00:25:09.9:
-00:25:11.1:Berühmt sind sie geworden für ihren grazilen Körperbau
+00:25:11.1:Berühmt sind sie geworden|für ihren grazilen Körperbau
 00:25:13.8:
 00:25:14.0:und die Elastizität ihrer Bewegungen.
 00:25:16.1:
-00:25:17.1:Geschätzt wird ihre große Schnelligkeit und Ausdauer.
+00:25:17.1:Geschätzt wird ihre große|Schnelligkeit und Ausdauer.
 00:25:19.1:
 00:25:20.1:Wüstenpferde, auf denen im elften Jahrhundert
 00:25:23.5:
@@ -658,7 +658,7 @@
 00:25:38.1:
 00:25:38.4:Chiwa.
 00:25:39.4:
-00:25:41.2:Begehrtes Reiseziel schon seit vielen Jahrhunderten.
+00:25:41.2:Begehrtes Reiseziel schon|seit vielen Jahrhunderten.
 00:25:43.7:
 00:26:03.9:Vor 2.400 Jahren ist Chiwa nach Samarkand
 00:26:06.7:
@@ -670,11 +670,11 @@
 00:26:13.0:
 00:26:13.1:und Timur stellte sie unter seinen Schutz.
 00:26:14.5:
-00:26:16.4:Im 16. Jahrhundert wurde sie die Residenz der choresmischen Khane.
+00:26:16.4:Im 16. Jahrhundert wurde sie die|Residenz der choresmischen Khane.
 00:26:20.4:
 00:26:21.5:Heute ist sie ein einzigartiges Freilichtmuseum.
 00:26:24.7:
-00:26:28.9:Unser Hotel, wo uns nach den Strapazen der Wüste
+00:26:28.9:Unser Hotel, wo uns nach|den Strapazen der Wüste
 00:26:32.0:
 00:26:32.1:endlich ein frisches Bad und|ein weiches Bett erwarten,
 00:26:34.4:
@@ -706,7 +706,7 @@
 00:27:14.4:
 00:27:14.5:der Erfinder der Algebra
 00:27:16.1:
-00:27:16.4:und zugleich einer der Väter der Dezimalrechnung
+00:27:16.4:und zugleich einer der|Väter der Dezimalrechnung
 00:27:18.6:
 00:27:18.7:und der Arithmetik,
 00:27:19.8:
@@ -714,7 +714,7 @@
 00:27:23.2:
 00:27:23.6:Von seinem Namen Al Koreizi
 00:27:25.4:
-00:27:25.7:wurde der heute uns allen bekannte mathematische Begriff
+00:27:25.7:wurde der heute uns allen|bekannte mathematische Begriff
 00:27:27.9:
 00:27:28.1:Algorithmus abgeleitet
 00:27:29.6:
@@ -722,11 +722,11 @@
 00:27:31.8:
 00:27:31.9:nicht auskommen.
 00:27:33.2:
-00:27:43.9:Hunderttausende Gäste empfängt jährlich die Stadt
+00:27:43.9:Hunderttausende Gäste|empfängt jährlich die Stadt
 00:27:46.5:
 00:27:46.7:die nicht mehr als 1.000 Einwohner zählt.
 00:27:48.9:
-00:28:31.5:Hier sind Holzschnitzer und Kunsthandwerker zuhause,
+00:28:31.5:Hier sind Holzschnitzer und|Kunsthandwerker zuhause,
 00:28:34.1:
 00:28:34.3:die die jahrhundertealten Kulturdenkmäler
 00:28:36.3:
@@ -754,7 +754,7 @@
 00:29:26.0:
 00:29:26.2:durch die Karakum.
 00:29:27.2:
-00:29:27.8:Zurück werden wir es in einem Drittel der Zeit schaffen,
+00:29:27.8:Zurück werden wir es in|einem Drittel der Zeit schaffen,
 00:29:30.1:
 00:29:30.4:um die Wüste herum, auf befestigter Straße.
 00:29:33.1:
