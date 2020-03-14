@@ -1,4 +1,4 @@
-﻿00:00:42.2:Feuerstuhl und Wüstensand
+00:00:42.2:Feuerstuhl und Wüstensand
 00:00:47.7:
 00:00:55.4:Wir sind auf dem Wege,|verehrte Zuschauer,
 00:00:57.5:
@@ -18,7 +18,7 @@
 00:01:17.9:
 00:01:18.1:Unsere Reiseroute führt uns von Aschhabat
 00:01:20.4:
-00:01:20.6:vorbei an der Wüstenstadt Nebil Dag
+00:01:20.6:vorbei an der Wüstenstadt Nebit Dag
 00:01:22.8:
 00:01:23.0:in die kleine Wüstensiedlung Tschogyl,
 00:01:24.8:
@@ -118,7 +118,7 @@
 00:03:44.1:
 00:03:45.3:Ein Test auf Herz und Nieren,|auf Kupplung und Zylinder.
 00:03:48.4:
-00:03:58.5:Bis nach Nebidag,
+00:03:58.5:Bis nach Nebit Dag,
 00:04:00.1:
 00:04:00.3:der Stadt der Erdgasarbeiter,
 00:04:01.4:

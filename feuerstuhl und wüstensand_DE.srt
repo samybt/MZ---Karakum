@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:42,200 --> 00:00:47,700
 Feuerstuhl und Wüstensand
 
@@ -41,7 +41,7 @@ Unsere Reiseroute führt uns von Aschhabat
 
 11
 00:01:20,634 --> 00:01:22,782
-vorbei an der Wüstenstadt Nebil Dag
+vorbei an der Wüstenstadt Nebit Dag
 
 12
 00:01:23,028 --> 00:01:24,755
@@ -66,7 +66,7 @@ Zielpunkt unserer Expedition,
 
 17
 00:01:32,858 --> 00:01:33,936
- Chiwa.
+Chiwa.
 
 18
 00:01:40,600 --> 00:01:42,100
@@ -250,7 +250,7 @@ auf Kupplung und Zylinder.
 
 61
 00:03:58,470 --> 00:04:00,110
-Bis nach Nebidag,
+Bis nach Nebit Dag,
 
 62
 00:04:00,310 --> 00:04:01,400
@@ -1684,3 +1684,4 @@ des Fernsehens der DDR
 00:30:10,900 --> 00:30:15,400
 Untertiteln
 mz-forum.com, 2020
+
